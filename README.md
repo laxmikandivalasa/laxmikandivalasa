@@ -15,3 +15,8 @@
 <a href="https://instagram.com/laxmi_kandivalasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laxmi" height="30" width="40" /></a>
 </p> 
 <br>
+
+🎧 Technologies and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,github)](https://github.com/laxmikandivalasa) <br>
+<br>
