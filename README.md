@@ -9,14 +9,20 @@
  🌱 I’m currently learning WEB TECHNOLOGIES
 </div>
 <br>
-💭 Connent with me:
+
+## 💭 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/laxmikandivalasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxmi" height="30" width="40" /></a>
 <a href="https://instagram.com/laxmi_kandivalasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laxmi" height="30" width="40" /></a>
 </p> 
 <br>
 
-🎧 Technologies and Tools:
+## 🎧 Technologies and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,github)](https://github.com/laxmikandivalasa) <br>
+<br>
+
+## 🪽 Github Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=laxmikandivalasa&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
 <br>
