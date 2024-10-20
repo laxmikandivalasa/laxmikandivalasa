@@ -22,7 +22,3 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,github)](https://github.com/laxmikandivalasa) <br>
 <br>
 
-## 🪽 Github Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=laxmikandivalasa&theme=radical&no-frame=true&no-bg=false&margin-w=4) <br>
-<br>
