@@ -22,3 +22,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,github)](https://github.com/laxmikandivalasa) <br>
 <br>
 
+![](https://komarev.com/ghpvc/?username=laxmikandivalasa&abbreviated=true) <br/>
