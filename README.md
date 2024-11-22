@@ -4,10 +4,18 @@
 <div>
   <img src="https://github.com/user-attachments/assets/16f00d85-d9b8-41b6-bf39-d728434706be" alt="MasterHead" width="160" align="right"/>
  🔭 I’m currently working on OPEN SOURCE PROJECTS
-
   
  🌱 I’m currently learning WEB TECHNOLOGIES
 </div>
+<a href="https://laxmikandivalasa.github.io/Portfolio/" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF69B4?style=for-the-badge&logo=github" 
+    alt="Visit My Portfolio" />
+</a>
+
+
+
+
 <br>
 
 ## 💭 Connect with me:
