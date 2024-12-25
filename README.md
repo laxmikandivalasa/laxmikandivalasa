@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/16f00d85-d9b8-41b6-bf39-d728434706be" alt="MasterHead" width="160" align="right"/>
  🔭 I’ve worked on OPEN SOURCE PROJECTS
   
- 🌱 I’m currently learning WEB TECHNOLOGIES
+ 🌱 I’m interested in WEB TECHNOLOGIES
 </div>
 <a href="https://laxmikandivalasa.github.io/Portfolio/" target="_blank">
   <img 
