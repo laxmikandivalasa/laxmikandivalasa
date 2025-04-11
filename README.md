@@ -24,7 +24,7 @@ A blend of curiosity and creativity, constantly learning and crafting with techn
 
 <h3>🎧 Technologies and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,github)](https://github.com/laxmikandivalasa) <br>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwindcss,js,github)](https://github.com/laxmikandivalasa) <br>
 <br>
 
 <h3>😅 Fun fact: </h3>
