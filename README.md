@@ -10,7 +10,7 @@ A blend of curiosity and creativity, constantly learning and crafting with techn
 ✨ Fueled by creativity, curiosity, and a passion for innovation.
 </div>
 
-<a href="laxmikandivalasa.github.io/MyPortfolio/" target="_blank">
+<a href="https://laxmikandivalasa.github.io/MyPortfolio/" target="_blank">
   <img 
     src="https://img.shields.io/badge/Visit%20My%20Portfolio-FF69B4?style=for-the-badge&logo=github" 
     alt="Visit My Portfolio" />
